@@ -3,7 +3,7 @@
 SQL Database, Data Engineering,Data Analysis, Data Modeling
 
 
-![sql.png](images/sql.png)
+https://github.com/kskouegbe/SQL_Challenges/blob/main/sql.png
 
 
 ## Background
